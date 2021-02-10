@@ -104,6 +104,14 @@ https://github.com/uber/orbit
 
 
 
+https://ocw.mit.edu/courses/economics/14-384-time-series-analysis-fall-2013/lecture-notes/
+
+
+https://cran.r-project.org/web/packages/forecastML/vignettes/package_overview.html
+
+https://business-science.github.io/modeltime/
+
+
 https://github.com/awslabs/gluon-ts/
 
 * Посмотреть как реализована сдача домашек через stepik на
