@@ -122,6 +122,7 @@ https://blogs.rstudio.com/ai/index.html#category:Time_Series
 
 https://github.com/asael697/bayesforecast
 
+https://github.com/asael697/varstan
 
 
 https://github.com/business-science/modeltime.gluonts
