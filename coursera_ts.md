@@ -116,7 +116,20 @@ https://github.com/awslabs/gluon-ts/
 
 
 RNN прогнозирование получасового спроса на электричество в R:
-https://blogs.rstudio.com/ai/posts/2021-03-10-forecasting-time-series-with-torch_1/
+https://blogs.rstudio.com/ai/index.html#category:Time_Series
+
+
+
+https://github.com/asael697/bayesforecast
+
+
+
+https://github.com/business-science/modeltime.gluonts
+
+
+
+новый пакет для обработки дат
+https://cran.r-project.org/web/packages/clock/vignettes/clock.html
 
 * Посмотреть как реализована сдача домашек через stepik на
 "Python для извлечения и обработки данных"
