@@ -128,6 +128,12 @@ https://github.com/asael697/varstan
 https://github.com/business-science/modeltime.gluonts
 
 
+данные с большим количеством нулей: intermittent demand with zeroes
+https://stats.stackexchange.com/questions/373689
+
+тест Диболда-Мариано
+http://www.phdeconomics.sssup.it/documents/Lesson19.pdf
+
 
 новый пакет для обработки дат
 https://cran.r-project.org/web/packages/clock/vignettes/clock.html
